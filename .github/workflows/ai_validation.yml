@@ -4,6 +4,11 @@ on:
   pull_request:
     types: [opened, edited, synchronize]
 
+permissions:
+  contents: read       # to read repo files
+  pull-requests: read  # to read PR metadata
+  issues: write        # to post comments & labels on the PR
+
 jobs:
   validate-justification:
     runs-on: ubuntu-latest
