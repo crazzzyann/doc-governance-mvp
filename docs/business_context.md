@@ -4,7 +4,7 @@ This document describes the high-level business context, goals, and constraints
 for Project X.
 
 ## Objectives
-- Improve customer onboarding experience.
+- Improve customer onboarding experience significantly.
 - Reduce average onboarding time from 7 days to 3 days.
 
 ## Constraints
