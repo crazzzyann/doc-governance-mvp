@@ -16,8 +16,8 @@ The goal of this program is to consolidate onboarding workflows, automate verifi
 ## 2. Strategic Objectives
 
 ### 2.1 Primary Objectives
-- Reduce onboarding completion time from **7–10 days to under 24 hours**.
-- Achieve **customer onboarding success rate of ≥ 85%** within the first 6 months.
+- Reduce onboarding completion time from **7–10 days to under 20 hours**.
+- Achieve **customer onboarding success rate of ≥ 86%** within the first 6 months.
 - Reduce manual document review effort by **40%** using automated KYC, fraud checks, and OCR.
 - Ensure full compliance with 2023–2025 regulatory guidelines for KYC, AML, and data privacy.
 
